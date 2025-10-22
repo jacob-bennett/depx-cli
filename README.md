@@ -20,7 +20,7 @@ npm install -g @depx/cli
 To install a package, run `depx install <package-name>`.
 
 ### Example
-```bash
+```console
 $ depx install express
 ✔ Analysis loaded (740ms)
 express @ 5.1.0
@@ -36,7 +36,7 @@ Proceed with installation? (y/N):
 
 Enter "y" or "yes" to proceed with installation using `npm` from your system PATH:
 
-```bash
+```console
 Proceed with installation? (y/N): y
 npm install express
 
