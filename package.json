@@ -2,7 +2,7 @@
   "name": "@depx/cli",
   "version": "0.1.0",
   "description": "Analyze dependencies before you install.",
-  "keywords": ["supply", "chain", "supply-chain", "typosquatting", "security"],
+  "keywords": ["supply-chain", "typosquatting", "cli", "security"],
   "author": "Jacob Bennett <jacob@jacobbennett.tech>",
   "license": "MIT",
   "type": "module",
