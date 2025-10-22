@@ -1,0 +1,28 @@
+{
+  "name": "@depx/cli",
+  "version": "0.1.0",
+  "description": "Package insights",
+  "keywords": ["supply", "chain"],
+  "author": "Jacob Bennett <jacob@jacobbennett.tech>",
+  "license": "MIT",
+  "type": "module",
+  "files": ["src/", "README.md"],
+  "bin": {
+    "depx": "./src/main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jacob-bennett/depx-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-bennett/depx-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "5.6.2",
+    "commander": "14.0.1",
+    "yocto-spinner": "^1.0.0"
+  }
+}
