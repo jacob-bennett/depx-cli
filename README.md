@@ -1,4 +1,7 @@
 # Depx CLI
+[![dependencies](https://depx.co/api/badge/@depx/cli)](https://depx.co/pkg/@depx/cli)
+[![npm version](https://img.shields.io/npm/v/@depx/cli.svg)](https://www.npmjs.com/package/@depx/cli)
+
 Analyze dependencies _before_ you install.
 
 
